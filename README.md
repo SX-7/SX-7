@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @SX-7
-- Currently learning various languages, but most importantly various tools and programming paradigms/practices
+- 👋 Hi, I’m @SX-7, and I hope you have a nice day! 😄
+- Currently learning various languages, also various tools and programming paradigms/practices ⚙️
+- Overall focused on creating useful utilites right now
 <!---
 SX-7/SX-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
